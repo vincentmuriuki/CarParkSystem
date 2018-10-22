@@ -1,0 +1,92 @@
+.form-control{
+    width: 90%;
+}
+.alignc{
+    float:center;
+    margin-left:30%;
+    margin-top:8%;
+    margin-right:30%;
+    background-color: black;
+padding:30px;
+color:white;
+border:2px solid white;
+border-radius:15px;
+}
+body{
+    background-color:beige;
+}
+span{
+   color:blue;
+   font-size: 24px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.col-xs-4{
+    margin-left:15px;
+}
+.h{
+    color:#CCFFFF;
+    /* float: center; */
+}
+td{
+    color: white;
+}
+#must{
+    color:red;
+}
+.col-xs-4s{
+    margin-left:3px;
+    width:100px;
+}
+.main-header{
+/*marging-left:50%;*/
+    background-color:green;
+    margin-top:10px;
+    color:white;
+    
+}
+.navs{
+    font-size:18px;    
+    text-align:center;
+    padding:5px;
+}
+.links{
+
+}
+#lg{
+    text-align:right;
+    float:right;
+    color:pink;
+}
+a:hover{
+    /* background-color:black; */
+}
+a:active{
+    color:yellow;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+#errs{
+    color: red;
+}
+.myf{
+background-color:black;
+color:white;
+}
+aside{
+    float:right;
+    /* border:2px dashed black; */
+    position:relative;
+    margin-top:-25.5%;
+    min-width: 29%;
+}
+#copy{
+    text-align:center;
+}
+.row-pb-md {
+    padding-bottom: 4em !important;
+  }
+  
+
+  
